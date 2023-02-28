@@ -1,0 +1,113 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Noto Serif', serif;
+}
+
+body {
+    background-color: rgba(180, 93, 34, 0.781);
+    font-size: 20px;
+    padding: 30px;
+    margin: 20px;
+}
+
+#imagen-logo {
+    width: 600px;
+    border: auto;
+    border-style: double;
+    border-radius: 12px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-bottom: 15px;
+}
+
+h1 {
+    color: white;
+    font-size: 60px;
+    margin-bottom: 10px;
+
+}
+
+nav {
+    margin-bottom: 20px;
+}
+
+article {
+    margin-top: 40px;
+}
+
+
+h2 {
+    color: rgb(82, 4, 4);
+    margin: 15px;
+    font-size: 30px;
+}
+
+.foto-perfil {
+    width: 200px;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 5px;
+    background-color: rgb(59, 1, 1);
+}
+
+a {
+    margin: 15px;
+}
+
+button {
+    padding: 7px;
+    color: white;
+    border-color: white;
+    background-color: rgb(59, 1, 1);
+    font-size: 20px;
+}
+
+#datos1 {
+    width: 30px;
+    margin: 50px;
+}
+
+ul {
+    margin-top: 10px;
+}
+
+li {
+    font-family: 'Fira Sans', sans-serif;
+    margin-left: 40px;
+    font-size: 25px;
+}
+
+table,
+th,
+td {
+    border: 1px solid black;
+    padding: 5px;
+    background-color: burlywood;
+}
+
+h3 {
+    font-size: 22px;
+    margin-left: 30px;
+    margin-top: 15px;
+}
+
+p {
+    margin-left: 30px;
+}
+
+footer {
+    margin-top: 50px;
+    text-align: center;
+    width: 100%;
+}
+
+.cabecera {
+    display: inline-flex;
+}
+
+#parrafoVariable {
+    margin: 30px;
+}
